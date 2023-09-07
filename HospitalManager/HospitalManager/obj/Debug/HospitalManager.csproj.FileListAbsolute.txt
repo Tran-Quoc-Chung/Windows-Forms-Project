@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Code\.NET\HospitalManager\HospitalManager\bin\Debug\HospitalManager.exe.config
+C:\Users\Admin\Desktop\Code\.NET\HospitalManager\HospitalManager\bin\Debug\HospitalManager.exe
+C:\Users\Admin\Desktop\Code\.NET\HospitalManager\HospitalManager\bin\Debug\HospitalManager.pdb
+C:\Users\Admin\Desktop\Code\.NET\HospitalManager\HospitalManager\obj\Debug\HospitalManager.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Code\.NET\HospitalManager\HospitalManager\obj\Debug\HospitalManager.Properties.Resources.resources
+C:\Users\Admin\Desktop\Code\.NET\HospitalManager\HospitalManager\obj\Debug\HospitalManager.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Code\.NET\HospitalManager\HospitalManager\obj\Debug\HospitalManager.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Code\.NET\HospitalManager\HospitalManager\obj\Debug\HospitalManager.exe
+C:\Users\Admin\Desktop\Code\.NET\HospitalManager\HospitalManager\obj\Debug\HospitalManager.pdb
+C:\Users\Admin\Desktop\Code\.NET\HospitalManager\HospitalManager\obj\Debug\HospitalManager.Views.Login.resources
+C:\Users\Admin\Desktop\Code\.NET\HospitalManager\HospitalManager\obj\Debug\HospitalManager.Views.Home.resources
